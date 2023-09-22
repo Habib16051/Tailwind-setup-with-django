@@ -58,3 +58,12 @@ module.exports = {
   
 }
 
+# input.css
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+# Finally
+npm run build
+
